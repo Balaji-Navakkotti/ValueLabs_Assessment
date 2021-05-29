@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29908" started-at="2021-05-29T08:25:11Z" finished-at="2021-05-29T08:25:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29908" started-at="2021-05-29T08:25:11Z" finished-at="2021-05-29T08:25:41Z">
+      <class name="Assessment.ValueLabs.TestScripts.MobileScenarios">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="initializeDriver" is-config="true" duration-ms="10282" started-at="2021-05-29T08:25:11Z" finished-at="2021-05-29T08:25:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="getClassName()[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="getClassName" is-config="true" duration-ms="2" started-at="2021-05-29T08:25:22Z" finished-at="2021-05-29T08:25:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="PASS" signature="browserInit(java.lang.reflect.Method)[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="browserInit" is-config="true" duration-ms="3" started-at="2021-05-29T08:25:22Z" finished-at="2021-05-29T08:25:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Assessment.ValueLabs.TestScripts.MobileScenarios.LoginScenario()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInit -->
+        <test-method status="PASS" signature="LoginScenario()[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="LoginScenario" duration-ms="3889" started-at="2021-05-29T08:25:22Z" finished-at="2021-05-29T08:25:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginScenario -->
+        <test-method status="PASS" signature="endMethod(org.testng.ITestResult)[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="endMethod" is-config="true" duration-ms="2" started-at="2021-05-29T08:25:25Z" finished-at="2021-05-29T08:25:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginScenario status=SUCCESS method=MobileScenarios.LoginScenario()[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method status="PASS" signature="SelectItemAndRemove()[pri:1, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="SelectItemAndRemove" duration-ms="3905" started-at="2021-05-29T08:25:25Z" finished-at="2021-05-29T08:25:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectItemAndRemove -->
+        <test-method status="PASS" signature="browserInit(java.lang.reflect.Method)[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="browserInit" is-config="true" duration-ms="0" started-at="2021-05-29T08:25:25Z" finished-at="2021-05-29T08:25:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Assessment.ValueLabs.TestScripts.MobileScenarios.SelectItemAndRemove() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInit -->
+        <test-method status="PASS" signature="endMethod(org.testng.ITestResult)[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="endMethod" is-config="true" duration-ms="0" started-at="2021-05-29T08:25:29Z" finished-at="2021-05-29T08:25:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SelectItemAndRemove status=SUCCESS method=MobileScenarios.SelectItemAndRemove()[pri:1, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method status="PASS" signature="SelectTheProductandCompleteCheckout()[pri:2, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="SelectTheProductandCompleteCheckout" duration-ms="10779" started-at="2021-05-29T08:25:29Z" finished-at="2021-05-29T08:25:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectTheProductandCompleteCheckout -->
+        <test-method status="PASS" signature="browserInit(java.lang.reflect.Method)[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="browserInit" is-config="true" duration-ms="0" started-at="2021-05-29T08:25:29Z" finished-at="2021-05-29T08:25:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Assessment.ValueLabs.TestScripts.MobileScenarios.SelectTheProductandCompleteCheckout() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInit -->
+        <test-method status="PASS" signature="endMethod(org.testng.ITestResult)[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="endMethod" is-config="true" duration-ms="1" started-at="2021-05-29T08:25:40Z" finished-at="2021-05-29T08:25:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SelectTheProductandCompleteCheckout status=SUCCESS method=MobileScenarios.SelectTheProductandCompleteCheckout()[pri:2, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:Assessment.ValueLabs.TestScripts.MobileScenarios@57fffcd7]" name="endReport" is-config="true" duration-ms="1028" started-at="2021-05-29T08:25:40Z" finished-at="2021-05-29T08:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Assessment.ValueLabs.TestScripts.MobileScenarios -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
